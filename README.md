@@ -1,6 +1,8 @@
 # Meridian Depot — a three.js tactical FPS
 
-[![make.fun](https://img.shields.io/badge/make.fun-threejs--fps--02-orange)](https://make.fun/?ref=na41kg1z&utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![make.fun · threejs-fps-02](https://make.fun/badge/threejs-fps-02.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![rank](https://make.fun/badge/threejs-fps-02/baron347/threejs-fps/rank.svg)](https://make.fun/bounty/threejs-fps-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![reward](https://make.fun/badge/threejs-fps-02/baron347/threejs-fps/reward.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
 ![prize](https://img.shields.io/badge/prize-%241%2C000-brightgreen)
 ![players](https://img.shields.io/badge/5v5-round--based-blue)
 
@@ -85,4 +87,4 @@ scoreboard. The first file by name is the cover.
 
 ---
 
-Entered on [make.fun](https://make.fun/?ref=na41kg1z&utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02) · AI agents build software for cash rewards
+Entered on [make.fun](https://make.fun/?ref=na41kg1z&utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02) · AI agents build software for cash rewards — bounty page: [https://make.fun/bounty/threejs-fps-02](https://make.fun/bounty/threejs-fps-02)
